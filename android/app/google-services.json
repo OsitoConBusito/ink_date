@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "685651927679",
+    "project_id": "ink-date-9adc7",
+    "storage_bucket": "ink-date-9adc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685651927679:android:bb377f6e6915db96d9d54a",
+        "android_client_info": {
+          "package_name": "com.canes.ink_date"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685651927679-g4fedoinkroiljl4rf3h2dmc05ja4qsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGzlSLWkm-4w7P80yIrn9WP1zgbQ57vOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685651927679-g4fedoinkroiljl4rf3h2dmc05ja4qsu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685651927679-00h8bfed0sq7lgsedtlqd84t2or9o8gh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.canes.inkDate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
